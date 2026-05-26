@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+
+# Keep gitignore itself tracked
+!.gitignore
+
+# Keep only this folder in repository
+!zajecia_grafika/
+!zajecia_grafika/**
+
+# OS / editor junk (inside allowed folders)
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log

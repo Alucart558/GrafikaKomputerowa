@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+}
+
+#par_1 {
+    font-weight: bold;
+    border-color: black;
+    border-style: dotted;
+}
+
+.content {
+    display: flex; 
+    justify-content: center;
+}
+
+#button {
+    padding: 2vh;   
+    /* vh = viewport height */
+    margin-top: 10vh;
+}
